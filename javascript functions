@@ -1,0 +1,11 @@
+<html>
+<body>
+<h1>javascript functions</h1>
+<h2>the arrow functions</h2>
+<p id="demo"></p>
+<script>
+let myfunction=(a,b)=>a*b;
+document.getElementById("demo").innerHTML=myfunction(4,5);
+</script>
+</body>
+</html>

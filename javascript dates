@@ -1,0 +1,10 @@
+<html>
+<body>
+<h2>javascript dates</h2>
+<p id="demo"></p>
+<script>
+const d=new Date("2005-06-15");
+document.getElementById("demo").innerHTML=d;
+</script>
+</body>
+</html>
